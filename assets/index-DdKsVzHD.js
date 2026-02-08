@@ -16734,11 +16734,11 @@ function dD() {
           "flex flex-col bg-cream-500 p-2 md:p-6 mt-12 border-5 rounded-md border-neutral-950 w-[90%] lg:w-2/3 xl:max-w-[700px] items-center justify-center",
         children: _.jsx("h4", {
           "data-text":
-            "Chucky, Vitalik Buterin's dog, is crypto dog—he's a low-key crypto icon. Often spotted in the background of Vitalik's posts,Chucky has won the hearts of Ethereum fans, adding a playful, down-to-earth vibe to the world of blockchain. While Vitalik builds the future of decentralized tech, Chucky's busy stealing the spotlight with his quiet charm.",
+            "Chucky, Vitalik Buterin's dog, is crypto dog—he's a low-key crypto king dog. Often spotted in the background of Vitalik's posts,Chucky has won the hearts of Ethereum fans, adding a playful, down-to-earth vibe to the world of blockchain. While Vitalik builds the future of decentralized tech, Chucky's busy stealing the spotlight with his quiet charm.",
           className:
             "text-justify text-[18px] leading-tight md:leading-7 md:text-xl text-white z-10 tracking-wider",
           children:
-            "Chucky, Vitalik Buterin's dog, is crypto dog—he's a low-key crypto icon. Often spotted in the background of Vitalik's posts,Chucky has won the hearts of Ethereum fans, adding a playful, down-to-earth vibe to the world of blockchain. While Vitalik builds the future of decentralized tech, Chucky's busy stealing the spotlight with his quiet charm.",
+            "Chucky, Vitalik Buterin's dog, is crypto dog—he's a low-key crypto king dog. Often spotted in the background of Vitalik's posts,Chucky has won the hearts of Ethereum fans, adding a playful, down-to-earth vibe to the world of blockchain. While Vitalik builds the future of decentralized tech, Chucky's busy stealing the spotlight with his quiet charm.",
         }),
       }),
       _.jsxs(ct.div, {
